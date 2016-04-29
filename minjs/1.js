@@ -1,0 +1,1 @@
+function name(){return todd+help}var todd="a",help=1234;
